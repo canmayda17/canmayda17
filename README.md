@@ -27,6 +27,7 @@ Hi, I'm Can! I am a Computer Science Engineering student at Marmara University. 
 ---
 
 ### 📈 GitHub Stats
+<sub><span style="color:gray">Based on file sizes, not quantity</span></sub>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canmayda17&layout=compact&theme=tokyonight&hide_border=true)
 
